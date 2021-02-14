@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.util.Random;
 
+
 class one {
 
     static int rows = 10;
@@ -11,6 +12,7 @@ class one {
     static Random generate = new Random();
 
     public static void main(String[] args) {
+        System.out.println("Pawan Adhikari");
 
         JOptionPane.showMessageDialog(null,
                 "This program will demonstrate" +
